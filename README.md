@@ -31,7 +31,7 @@ This is a **responsive landing page** designed for students interested in studyi
    ```
 2. Navigate to the project folder:
    ```bash
-   cd study-mbbs-abroad
+   cd Study-Mbbs-Abroad
    ```
 3. Open `index.html` in a browser:
    ```bash
